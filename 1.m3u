@@ -10,23 +10,15 @@ https://livess.jagobd.com.bd/live-orgin/timetvusa.stream/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.tbn24.com/favicon.png", TBN 24
 https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/600px-CNN_International_logo.svg.png", CNN 
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png", Somoy News
 https://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="canbangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/12/canbangla.jpg", Can Bangla Canada 
-https://livess.jagobd.com.bd/live-orgin/canbanglatv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="bijoytv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/640px-BIJOY_TV_Logo_BD.png", Bijoy Tv 
 https://livess.jagobd.com.bd/live-orgin/bijoy00.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="MadaniChannelBangla.bd" tvg-logo="https://i.imgur.com/vIJTVia.png",Madani Channel Bangla (1080p)
+#EXTINF:-1 group-title="Entertainment" tvg-id="MadaniChannel" tvg-logo="https://i.imgur.com/vIJTVia.png",Madani Channel
 https://livess.jagobd.com.bd/live-orgin/madina.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="bishwabangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/03/Logo-Still.png", Biswa Bangla 
-https://livess.jagobd.com.bd/live-orgin/biswabanglatv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="b24c" tvg-logo="https://play-lh.googleusercontent.com/oZX5THr0KJ6g-r1ou1Vx278Xw5BnmXYdjHXg4LMqo2vwVj7Oj8XNPTr7fhPL-pYp8XO8", B24
 https://livess.jagobd.com.bd/live-orgin/b24c.stream/chunks.m3u8
@@ -58,7 +50,6 @@ https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TRT_World_logosu.png/1200px-TRT_World_logosu.png", TRT World
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://seeklogo.com/images/D/deepto-tv-logo-71DD610A34-seeklogo.com.png", Depto TV
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-720p.m3u8
 
@@ -79,9 +70,6 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://logos-world.net/wp-content/uploads/2023/09/ABC-News-Logo-2013.png", ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1024px-Fox_News_Channel_logo.svg.png", Fox News
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png", RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
@@ -113,17 +101,8 @@ https://livess.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png", DBC News 24
 https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="WMPTDT2.us",WMPT-DT2 (PBS Create)
-https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="KETSDT1.us",Arkansas PBS [Geo-blocked]
-https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-id="BloombergQuicktake.us",Bloomberg Quicktake (1080p)
 https://ab1455372fed47d8a88264bab4831d5c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_QuickTake-1/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="bonappetit.us",bon appétit (1080p)
-https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="adult-swim",adult-swim cartoon (1080p)
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_3.m3u8
