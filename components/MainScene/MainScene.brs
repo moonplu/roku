@@ -125,11 +125,16 @@ sub onKeyPress()
         m.top.dialog.close = true
         m.get_channel_list.control = "RUN"
     else if m.top.dialog.buttonSelected = 1 ' Set back to Demo
-        m.top.dialog.text = "https://raw.githubusercontent.com/moonplu/me/main/index.m3u"
+        ' Redirect to the Demo URL
+        m.top.dialog.close = true
+        m.global.feedurl = "https://raw.githubusercontent.com/moonplu/me/main/index.m3u"
+        m.save_feed_url.control = "RUN"
+        m.get_channel_list.control = "RUN"
     else if m.top.dialog.buttonSelected = 2 ' Save
+        ' Redirect to the provided URL
         m.global.feedurl = m.top.dialog.text
         m.save_feed_url.control = "RUN"
-        '    m.top.dialog.visible ="false"
-        '    m.top.unobserveField("buttonSelected")
+        m.get_channel_list.control = "RUN"
     end if
 end sub
+
