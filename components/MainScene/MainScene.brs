@@ -98,22 +98,9 @@ end sub
 
 
 sub showdialog()
-    PRINT ">>>  ENTERING KEYBOARD <<<"
-
-
-    keyboarddialog = createObject("roSGNode", "KeyboardDialog")
-    keyboarddialog.backgroundUri = "pkg:/images/rsgde_bg_hd.jpg"
-    keyboarddialog.title = "ENTER PLAYLIST HERE"
-
-    keyboarddialog.buttons=["OK","Set back to Demo", "Save"]
-    keyboarddialog.optionsDialog=true
-
-    m.top.dialog = keyboarddialog
-    m.top.dialog.text = m.global.feedurl
-    m.top.dialog.keyboard.textEditBox.cursorPosition = len(m.global.feedurl)
-    m.top.dialog.keyboard.textEditBox.maxTextLength = 300
-
-    KeyboardDialog.observeFieldScoped("buttonSelected","onKeyPress")  'we observe button ok/cancel, if so goto to onKeyPress sub
+    m.global.feedurl = "https://raw.githubusercontent.com/moonplu/me/main/index.m3u"
+    m.save_feed_url.control = "RUN"
+    m.get_channel_list.control = "RUN"
 end sub
 
 
