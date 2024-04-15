@@ -125,7 +125,7 @@ sub onKeyPress()
         m.top.dialog.close = true
         m.get_channel_list.control = "RUN"
     else if m.top.dialog.buttonSelected = 1 ' Set back to Demo
-        m.top.dialog.text = "https://tinyurl.com/yaoc6zpo"
+        m.top.dialog.text = "https://raw.githubusercontent.com/moonplu/me/main/index.m3u"
     else if m.top.dialog.buttonSelected = 2 ' Save
         m.global.feedurl = m.top.dialog.text
         m.save_feed_url.control = "RUN"
